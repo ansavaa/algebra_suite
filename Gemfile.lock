@@ -81,6 +81,7 @@ GEM
 PLATFORMS
   arm64-darwin-24
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   algebra_suite!
